@@ -83,6 +83,7 @@ footer {
     justify-content: right;
     position: absolute;
     left: 0;
+    width: 100%;
 }
 footer a {
     color: #ffffff;

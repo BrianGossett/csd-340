@@ -29,7 +29,8 @@ header {
     font-size: 2em;
     font-weight: bold;
     color: #fff;
-    width: 80%;
+    margin: 1em;
+    width: 100%;
     margin: 0 auto;
 }
 

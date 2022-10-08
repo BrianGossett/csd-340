@@ -28,6 +28,7 @@ img {
 header {
     font-size: 2em;
     font-weight: bold;
+    background-color: #4f4f0f;
     color: #fff;
     margin: 1em;
     width: 100%;
@@ -35,7 +36,7 @@ header {
 }
 
 #container {
-    width: 80%;
+    max-width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-direction: row;
@@ -80,6 +81,8 @@ header {
 #mainContainer {
     max-width: 1200px;
     margin: 0 auto;
+    display: flex;
+    flex-direction: row;
 }
 
 footer {
